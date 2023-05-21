@@ -1,6 +1,8 @@
 ### Hi there 👋
 <div id= "header" align="center">
   <img src= " https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200" >
+  <h1 align="center">Hi 👋, I'm Alissa Salazar </h1>
+  <h3 align="center">A passionate front-end web developer from Peru. I consider myself a curious person, that's why I always like to learn new things. </h3>
 </div>
 <!--
 **alissasalazar/AlissaSalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
