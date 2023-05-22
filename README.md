@@ -13,6 +13,8 @@ I am a Front-End Developer and Bachelor of Business Administration international
 - 📫 How to reach me: **salazargamarraa@gmail.com**
 - 🌱 I’m currently learning **Angular**
 
+---
+
 <div align="left">
   <h3> Languages and Tools: </h3>
   <div>
