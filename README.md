@@ -37,7 +37,7 @@
     
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alissasalazar&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissasalazar&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaSalazar&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
 </div>
