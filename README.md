@@ -29,6 +29,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TYPESCRIPT" alt="TYPESCRIPT" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="JEST" alt="JEST" width="40" heigth="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" heigth="40"/>&nbsp;
+
 ---
 ### My Stats:
     
@@ -36,6 +37,7 @@
     
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alissasalazar&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
 </div>
