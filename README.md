@@ -33,7 +33,7 @@
 ---
 ### My Stats:
     
- ![AlissaSalazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ ![AlissaSalazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissaSalazar&show_icons=true&theme=radical)
     
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alissasalazar&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
