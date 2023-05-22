@@ -8,6 +8,7 @@
 ---
 
 ### About Me:
+I am a Front-End Developer and Bachelor of Business Administration international. This experience allowed me to develop architectural skills and project management. In addition to working in the purchasing area where I developed a great ability to empathize with my users and identify their needs. I am a extremely curious person, I am passionate about creating solutions and generating connections with others. In addition, I learned the importance of organization, communication and "never assume."
 - 💬 Ask me about **JavaScript, ReactJs, NodeJs**
 - 📫 How to reach me: **salazargamarraa@gmail.com**
 - 🌱 I’m currently learning **Angular**
