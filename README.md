@@ -31,8 +31,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" heigth="40"/>&nbsp;
 ---
 ### My Stats:
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alissasalazar&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+    
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alissasalazar&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
     
   </div>
